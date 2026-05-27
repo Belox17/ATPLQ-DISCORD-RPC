@@ -35,6 +35,7 @@ directly on your Discord profile.
 📚 ATPL(A) (EASA 2020) | 062 - Radio Navigation
 ✅ 14 ❌ 7 • 📈 66%
 ```
+![alt text](<../../Downloads/Screenshot 2026-05-27 204123.png>)
 
 ## Exam Mode
 
@@ -42,6 +43,7 @@ directly on your Discord profile.
 📚 ATPL Questions Exam
 📝 Questions done: 42/60
 ```
+![alt text](<../../Downloads/Screenshot 2026-05-27 204324.png>)
 
 ---
 
@@ -139,7 +141,7 @@ folder.
 Double click:
 
 ```text
-start.bat
+startrpc.bat
 ```
 
 ---
